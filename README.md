@@ -40,8 +40,7 @@
 
   # Sobre mim
 
-  <p>Estou atualmente estudando atrávez por curso técnico de Dev developer (o qual foi meu primeiro contato), mas também já fiz bootcamps como: full stack da Satander pelo DIO e primeiras tecnologias também pela DIO com o apoio da prefeitura de fortaleza. Estou me desenvolvendo cada vez mais com tecnologias e afins. Quero ir pro fullstack, mas estou vendo outras possibilidades também, como na área de cyber segurança.</p>
-  
+  <p>Atualmente estou cursando cybersegurança e já conclui desenvolvimento web. Estou sempre aprendendo mais e fazendo desafios na Alura</p>
   
   
 
