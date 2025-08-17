@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### OLÁ, SOU HANI 😁
+### OLÁ, SOU HANI ou Ranielly 😁
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yo_hani.i)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranielly-souza-agostinho-b4370b266/)
